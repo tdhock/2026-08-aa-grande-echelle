@@ -14,49 +14,11 @@ Site : https://github.com/tdhock/2026-08-aa-grande-echelle
 
 Plan de cours : TODO
 
-** Travaux Pratiques
-
-À partir du TP3, on va travailler sur une grappe de calcul, « super-computer cluster ».
-TODO lien pour inscription et approuver.
-
-- j’ai demandé 100-1000 CPUs
-- on m’a donné 360 CPUs
-- lundi le 2 fév on l’a réduit à 90 CPUs.
-- mardi le 3 fév on m’a dit que les étudiants devraient utiliser 1–4 CPUs
-- lundi le 9 fév on n’a que 10 CPUs.
-- je vous donne donc le choix de faire soit sur la grappe, soit sur votre ordi personnel (en parallèle).
-
-| Sujet                                | À remettre |
-|--------------------------------------+------------|
-| [[file:tps/tp1.md][TP1 : validation croisée dans Python]] | 11 sept    |
-| [[file:tps/tp2.md][TP2 : validation croisée dans R]]      | 18 sept    |
-| [[file:tps/tp3.md][TP3 : grappe de calcul avec R]]        | 25 sept    |
-| [[file:tps/tp4.md][TP4 : grappe de calcul avec Python]]   | 2 oct      |
-| TP5 : généralisation, MNIST          | 9 oct      |
-| [[file:tps/tp6.md][TP6 : généralisation, A et B]]         | 16 oct     |
-| [[file:tps/tp7.md][TP7 : entraînement sur GPU]]           | 23 oct     |
-| [[file:tps/tp8.md][TP8 : création d’un package python]]   | 6 nov      |
-| [[file:tps/tp9.md][TP9 : création d’un package R]]        | 20 nov     |
-| [[file:tps/tp10.md][TP10 : contribution sur GitHub]]       | 4 déc      |
-
-L’échelle pour noter chaque TP.
-
-- 50% qualité du code (voir standards).
-- 50% qualité des résultats (graphiques et réponses aux questions).
-- quelques codes et graphiques mais pas correct, -10 à -20.
-- code ou graphique manquant, -20 à -40.
-- code et graphique manquant, -40 à -80.
-
-
-Standards dans la rédaction de code R et python
-- R [[https://docs.google.com/document/d/1Mw5Nk9UHEoF_c1b5JqDCdeXP5pX1HPCQ8HSGCsVSw7M][Standards dans la rédaction de code R / R General Usage Rubric]]
-- Python [[https://docs.google.com/document/d/1Co1y6bvnNdadnzwAt575JFLkIvGZsQ35ED3QJgMfA3Y][Standards dans la rédaction de code python / Python General Usage Rubric]]
-
-*** Grappe de calcul
-
-TODO commandes ssh + lien jupyter
-
 ** Calendrier
+
+rencontres dans D4-2022.
+- le mardi 13H30 / 15H30, à partir du 1 sept.
+- le jeudi 15H30 / 16H30, à partir du 10 sept.
 
 - 5 jan, semaine 1
   - rappels de python / scikit learn
@@ -126,6 +88,48 @@ TODO commandes ssh + lien jupyter
   - pas de cours le lundi 20 avril.
   - examen le mardi 21,	13:30 à 15:00, D3-2031.
 - 27 avr, semaine 17
+
+** Travaux Pratiques
+
+À partir du TP3, on va travailler sur une grappe de calcul, « super-computer cluster ».
+TODO lien pour inscription et approuver.
+
+- j’ai demandé 100-1000 CPUs
+- on m’a donné 360 CPUs
+- lundi le 2 fév on l’a réduit à 90 CPUs.
+- mardi le 3 fév on m’a dit que les étudiants devraient utiliser 1–4 CPUs
+- lundi le 9 fév on n’a que 10 CPUs.
+- je vous donne donc le choix de faire soit sur la grappe, soit sur votre ordi personnel (en parallèle).
+
+| Sujet                                | À remettre |
+|--------------------------------------+------------|
+| [[file:tps/tp1.md][TP1 : validation croisée dans Python]] | 11 sept    |
+| [[file:tps/tp2.md][TP2 : validation croisée dans R]]      | 18 sept    |
+| [[file:tps/tp3.md][TP3 : grappe de calcul avec R]]        | 25 sept    |
+| [[file:tps/tp4.md][TP4 : grappe de calcul avec Python]]   | 2 oct      |
+| TP5 : généralisation, MNIST          | 9 oct      |
+| [[file:tps/tp6.md][TP6 : généralisation, A et B]]         | 16 oct     |
+| [[file:tps/tp7.md][TP7 : entraînement sur GPU]]           | 23 oct     |
+| [[file:tps/tp8.md][TP8 : création d’un package python]]   | 6 nov      |
+| [[file:tps/tp9.md][TP9 : création d’un package R]]        | 20 nov     |
+| [[file:tps/tp10.md][TP10 : contribution sur GitHub]]       | 4 déc      |
+
+L’échelle pour noter chaque TP.
+
+- 50% qualité du code (voir standards).
+- 50% qualité des résultats (graphiques et réponses aux questions).
+- quelques codes et graphiques mais pas correct, -10 à -20.
+- code ou graphique manquant, -20 à -40.
+- code et graphique manquant, -40 à -80.
+
+
+Standards dans la rédaction de code R et python
+- R [[https://docs.google.com/document/d/1Mw5Nk9UHEoF_c1b5JqDCdeXP5pX1HPCQ8HSGCsVSw7M][Standards dans la rédaction de code R / R General Usage Rubric]]
+- Python [[https://docs.google.com/document/d/1Co1y6bvnNdadnzwAt575JFLkIvGZsQ35ED3QJgMfA3Y][Standards dans la rédaction de code python / Python General Usage Rubric]]
+
+*** Grappe de calcul
+
+TODO commandes ssh + lien jupyter
 
 ** Apprentissage de programmation
 
