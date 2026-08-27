@@ -1,0 +1,133 @@
+IFT 704 — Apprentissage automatique à grande échelle
+
+Automne 2026
+
+Personne enseignante : Toby Dylan HOCKING
+
+Courriel : Toby.Dylan.Hocking@USherbrooke.ca
+
+Bureau du professeur : D4-1010-11
+
+Téléphone : 819-821-8000 (65565)
+
+Site : https://github.com/tdhock/2026-08-aa-grande-echelle
+
+Plan de cours : TODO
+
+** Travaux Pratiques
+
+À partir du TP3, on va travailler sur une grappe de calcul, « super-computer cluster ».
+TODO lien pour inscription et approuver.
+
+- j’ai demandé 100-1000 CPUs
+- on m’a donné 360 CPUs
+- lundi le 2 fév on l’a réduit à 90 CPUs.
+- mardi le 3 fév on m’a dit que les étudiants devraient utiliser 1–4 CPUs
+- lundi le 9 fév on n’a que 10 CPUs.
+- je vous donne donc le choix de faire soit sur la grappe, soit sur votre ordi personnel (en parallèle).
+
+| Sujet                                | À remettre |
+|--------------------------------------+------------|
+| [[file:tps/tp1.md][TP1 : validation croisée dans Python]] | 11 sept    |
+| [[file:tps/tp2.md][TP2 : validation croisée dans R]]      | 18 sept    |
+| [[file:tps/tp3.md][TP3 : grappe de calcul avec R]]        | 25 sept    |
+| [[file:tps/tp4.md][TP4 : grappe de calcul avec Python]]   | 2 oct      |
+| TP5 : généralisation, MNIST          | 9 oct      |
+| [[file:tps/tp6.md][TP6 : généralisation, A et B]]         | 16 oct     |
+| [[file:tps/tp7.md][TP7 : entraînement sur GPU]]           | 23 oct     |
+| [[file:tps/tp8.md][TP8 : création d’un package python]]   | 6 nov      |
+| [[file:tps/tp9.md][TP9 : création d’un package R]]        | 20 nov     |
+| [[file:tps/tp10.md][TP10 : contribution sur GitHub]]       | 4 déc      |
+
+L’échelle pour noter chaque TP.
+
+- 50% qualité du code (voir standards).
+- 50% qualité des résultats (graphiques et réponses aux questions).
+- quelques codes et graphiques mais pas correct, -10 à -20.
+- code ou graphique manquant, -20 à -40.
+- code et graphique manquant, -40 à -80.
+
+
+Standards dans la rédaction de code R et python
+- R [[https://docs.google.com/document/d/1Mw5Nk9UHEoF_c1b5JqDCdeXP5pX1HPCQ8HSGCsVSw7M][Standards dans la rédaction de code R / R General Usage Rubric]]
+- Python [[https://docs.google.com/document/d/1Co1y6bvnNdadnzwAt575JFLkIvGZsQ35ED3QJgMfA3Y][Standards dans la rédaction de code python / Python General Usage Rubric]]
+
+*** Grappe de calcul
+
+TODO commandes ssh + lien jupyter
+
+** Calendrier
+
+- 5 jan, semaine 1
+  - rappels de python / scikit learn
+  - Diapos [[https://docs.google.com/presentation/d/1F8R5bDK_H8Y6H9eK1eaH0_Ojb-gBbU7uz1cY95RqD7U/edit?usp=sharing][C’est quoi l’apprentissage artificiel à grande échelle ?]]
+  - Diapos [[https://docs.google.com/presentation/d/1XmEp-xbYN23wbk4JcmBIfeJg9qH_8bfLWjSF7OEkiQs/edit?usp=sharing][Validation croisée dans Python avec scikit-learn]]
+  - Diapos [[https://docs.google.com/presentation/d/1U7RgXtTttg8TxBRYs0aRApcJvQ5tUQrbIvMxKp7XlbA/edit?usp=sharing][Les outils d’un informaticien]]
+- 12 jan, semaine 2
+  - rappels de python / scikit learn
+  - Diapos [[https://docs.google.com/presentation/d/1sEs5MGnUMO4CrPfA2nyklcaRvlaevCjsgU5fciMm9Bk/edit?slide=id.p#slide=id.p][Apprentissage et mémorisation]]
+  - Diapos [[https://docs.google.com/presentation/d/11Hx7Eo40EeX-9shLha9gSzgHpcWAO0TuekBYXgtwshA/edit?usp=sharing][Standards dans la rédaction du code]]
+- 19 jan, semaine 3
+  - bases de R / mlr3
+  - Diapos [[https://docs.google.com/presentation/d/1vcWlm6QemPCUtlnw1O0xk3b7jutsHOCn0kqjtDMKbS8/edit?usp=sharing][Validation croisée dans R avec mlr3]]
+  - Diapos [[https://docs.google.com/presentation/d/1ebLJxY57OdFm7v_G6feoVFypwBe1PiG6Mf7v7UL6WCw/edit?usp=sharing][data.table pour la traitement efficace des grands jeux de données]]
+  - Chapitre [[https://131-merge--animint-manual-fr.netlify.app/ch20/ch20-viz][Apprentissage artificiel avec mlr3]] — traduction en cours, corrections bienvenues ! [[https://github.com/animint/animint-manual-fr/blob/ch20fr/Chapitres/Ch20/Ch20_source.qmd][source]]
+- 26 jan, semaine 4
+  - apprentissage en parallèle sur grappe de calcul (R)
+  - Diapos [[https://docs.google.com/presentation/d/1qTtOtOU_l9sxcAsFHqvPLOaLrNlnMv_gIfYmj8lv4Ko/edit?usp=sharing][Validation croisée dans R en parallèle sur une grappe de calcul]]
+- 2 fév, semaine 5
+  - Apprentissage en parallèle sur grappe de calcul (python)
+  - Diapos [[https://docs.google.com/presentation/d/11YrfcwdXI515qd1Iy-dCgwn65hREenbssHNK3-znIGo/edit?usp=sharing][SLURM et Python pour la validation croisée]]  
+- 9 fév, semaine 6
+  - validation croisée pour comparer entraînement sur différents sous-ensembles
+  - Diapos [[https://docs.google.com/presentation/d/1Scn1dZqZF0N7OjCc3QqxbKcuXhMA2JuKOSyHptfcd0E/edit?usp=sharing][Comparer entraînement sur différents sous-ensembles]]
+- 16 fév, semaine 7
+  - acceleration avec GPU
+  - Diapos [[https://docs.google.com/presentation/d/1TR2899XuLAyTk4WJDe7IXa9wgYzQta43Wnz7WQptFGI/edit?usp=sharing][Entraînement sur GPU]]
+- 23 fév, semaine 8
+  - lundi 23 fév, révision. Présenter vos solutions des [[file:exam1.md][questions ici]] pour obtenir des points bonus sur l’examen.
+  - examen intra : le mercredi 25 février 2026, 09h - 10h20 (D3-2029).
+  - pas de cours vendredi.
+- 2 mar, semaine 9
+  - pas de cours (relâche)
+- 9 mar, semaine 10
+  - collaboration sur github
+  - Diapos [[https://docs.google.com/presentation/d/1HWStDr_t0F0BEFYGGsRURu3wNw2QdO9lZNUGRXt_28g/edit?usp=sharing][Contribution aux logiciels libres]]
+  - Organiser et publier un projet de recherche reproductible : github, zenodo
+- 16 mar, semaine 11
+  - Programmation python, doc strings, site web de documentation,
+    tests, PyPI, intégration de code C++, API C pour tableaux numpy
+  - Diapos [[https://docs.google.com/presentation/d/1gt9H9uRcep5-O6M9Mkkv2jjouK9jEHBWAWjXflyuJ6c/edit?usp=sharing][Créer un package Python]]
+  - Tutoriel en anglais : [[https://py-pkgs.org/01-introduction][pypkgs]]
+  - Docs : [[https://www.sphinx-doc.org/en/master/index.html][sphinx]]
+  - Tableau numpy dans C++ [[https://pybind11.readthedocs.io/en/stable/advanced/pycpp/numpy.html#vectorizing-functions][exemple]]
+  - Ouverture des [[https://summerofcode.withgoogle.com/programs/2026/organizations][applications pour Google Summer of Code]]
+- 23 mar, semaine 12
+  - Programmation R, créer package R avec documentation, tests, vignettes, C++ code, etc.
+  - Diapos [[https://docs.google.com/presentation/d/1_07zwe1RA_oY0QS8LZ7aqipKKNWmhdvCLn_XIyGvowI][Créer un package R]].
+  - créer interface pour un nouveau algorithme d’apprentissage dans mlr3.
+- 30 mar, semaine 13
+  - Diapos [[https://docs.google.com/presentation/d/1PYO9l5NNVuzcIC1COzzyCl1Z6FrpNIyAVmhjXLXcFeQ/edit?usp=sharing][intégration]] et [[https://docs.google.com/presentation/d/1z4CB628HgZCvdK5Tm7U2Bww8-MfhBIedU3vlAGLth6g/edit?usp=sharing][déploiement]] en continu (CI-CD)
+  - actions github, tests automatisés, couverture de code, analyse comparative de performance en continu.
+  - pas de cours le vendredi 3 avril (vendredi saint)
+- 6 avr, semaine 14
+  - pas de cours le lundi 6 avril (pâques)
+  - Diapos [[https://docs.google.com/presentation/d/1_07zwe1RA_oY0QS8LZ7aqipKKNWmhdvCLn_XIyGvowI][Créer un package R]] vignettes, Learners.
+  - https://github.com/tdhock/add.h26/pull/1
+  - https://github.com/tdhock/mlr3resampling/pull/81
+- 13 avr, semaine 15
+  - dernière semaine d’instruction
+  - Diapos [[https://docs.google.com/presentation/d/1HWStDr_t0F0BEFYGGsRURu3wNw2QdO9lZNUGRXt_28g/edit?usp=sharing][Contribution aux logiciels libres]]
+  - Diapos [[https://docs.google.com/presentation/d/1wmP9GNUwOO0Qq1ZyWYmsFzlhZuIX9EO9uCD2fSpZmK4][Labo LASSO]]
+  - [[https://tdhock.github.io/blog/2022/research-mentorship-plan/][Research Mentorship Plan]] et [[https://tdhock.github.io/blog/2024/application/][Application pour Doctorat]]
+  - révision le vendredi 18 avril, présenter vos solutions de [[file:exam2.md][ces questions]], pour points bonus.
+  - soumettre Draft Pull Request, et demander relecture de =@tdhock=, avant le lundi 20 avril.
+- 20 avr, semaine 16
+  - pas de cours le lundi 20 avril.
+  - examen le mardi 21,	13:30 à 15:00, D3-2031.
+- 27 avr, semaine 17
+
+** Apprentissage de programmation
+
+Lire les [[file:references.org][références]]
+

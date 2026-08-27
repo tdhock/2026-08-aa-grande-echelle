@@ -1,0 +1,65 @@
+*** R en français
+
+- [[https://rdatatable.gitlab.io/data.table/articles/fr/datatable-intro.html][Introduction à data.table]]
+- [[https://book.utilitr.org/][UtilitR]]
+
+Ceci est une liste basée sur [[https://bookdown.org/ael/rexplor/][celle de ExploR]], qui comprend des pages expliquant la grammaire de graphiques en français.
+
+- [[https://animint-manual-fr.netlify.app][Visualisation interactive de données dans R avec animint2]], 2026.
+- [[https://juba.github.io/tidyverse/08-ggplot2.html][Introduction à R et au tidyverse, Chapitre 8 Visualiser avec ggplot2]], Julien Barnier, 19 décembre 2024.
+- [[https://larmarange.github.io/analyse-R/intro-ggplot2.html][Introduction à l’analyse d’enquêtes avec R et RStudio, Introduction à ggplot2, la grammaire des graphiques]], Joseph Larmarange et al, 2024-02-20.
+- [[https://book.utilitr.org/03_Fiches_thematiques/Fiche_graphiques.html][utilitr, Faire des graphiques avec ggplot2]], Pierre-Yves Berrard, Lino Galiana et Olivier Meslin.
+- [[https://bookdown.org/ael/rexplor/chap8.html][Exploration de données avec R, Chapitre 8]], Anouar El Ghouch, 2021.
+- [[https://stt4230.rbind.io/communication_resultats/graphiques_ggplot2_r/][Stat4230 Graphiques avec ggplot2 en R]], Sophie Baillargeon, Université Laval, 2021-02-25.
+
+*** R en anglais
+
+These provide practical advice about how to write the R code necessary for the homeworks.
+
+- [[https://eddelbuettel.github.io/gsir-te/Getting-Started-in-R.pdf][Getting Started in R: Tinyverse Edition]] by Saghir Bashir and Dirk Eddelbuettel.
+- [[https://www.burns-stat.com/documents/tutorials/impatient-r/][Impatient R]] by Burns
+- [[https://github.com/matloff/fasteR][fasteR: Becoming productive in R, as fast as possible]], by Norm Matloff
+
+Introductions to data.table (efficient R package for data manipulation).
+- [[https://atrebas.github.io/post/2020-06-17-datatable-introduction/][A gentle introduction to data.table by Atrebas]].
+- Official [[https://cloud.r-project.org/web/packages/data.table/vignettes/datatable-intro.html][datatable-intro vignette]].
+- [[https://raw.githubusercontent.com/rstudio/cheatsheets/master/datatable.pdf][RStudio data.table cheat sheet]].
+
+Tao Te Programming by Burns
+- [[https://github.com/tdhock/cs499-599-fall-2020/blob/master/Burns.org][selected chapters]] from the book about how to become a good programmmer.
+- [[https://www.burns-stat.com/documents/books/tao-te-programming/][web page with details about how to purchase the full book]].
+
+Data visualization with grammar of graphics
+- [[https://animint-manual-en.netlify.app][Animated interactive data visualization using animint2 in R]] (animint2 code is almost identical to ggplot2 code),
+- [[https://www.youtube.com/watch?v=h29g21z0a68][Thomas Lin Pedersen's 150 minute webinar "Plotting Anything With ggplot2"]],
+- [[https://uc-r.github.io/ggplot_intro][One web page UC ggplot intro]],
+- [[https://r4ds.had.co.nz/data-visualisation.html][Data visualization chapter of R for Data Science]].
+
+Machine learning with mlr3
+- [[https://mlr3book.mlr-org.com/][mlr3book]]
+- [[https://mlr-org.github.io/mlr3torch-course/][mlr3torch-course]]
+- [[https://slds-lmu.github.io/i2ml/][Intro2ML class at LMU]]
+
+Guides to writing an R package with C/C++ code.
+- [[https://teuder.github.io/rcpp4everyone_en/][Rcpp for Everyone by Masaki E. Tsuda]].
+- [[https://webhome.phy.duke.edu/~rgb/General/c_book/c_book/][The C book by Mike Banahan, Declan Brady and Mark Doran]].
+- [[https://github.com/tdhock/when-c][When and how to write low-level (C/C++) instead of high-level (R/Python) code?]]
+- [[https://www.youtube.com/playlist?list=PLwc48KSH3D1OkObQ22NHbFwEzof2CguJJ][Make an R package with C++ code]], my tutorial screencast videos.
+- [[https://bookdown.dongzhuoer.com/hadley/r-pkgs/src][R packages]] book first edition by Wickham.
+- https://github.com/tdhock/2023-08-unsupervised-learning/blob/main/homeworks/Rpkg.org
+
+*** Python en français
+
+TODO
+
+*** Python en anglais
+
+- [[https://packaging.python.org/en/latest/][PPUG]] - distribution
+- [[https://github.com/RcppCore/RcppArmadillo][RcppArmadillo]]
+- [[https://www.mkdocs.org/][mkdocs]]
+- [[https://github.com/tdhock/when-c/blob/master/example-R-python.org#other-examples][Mes exemples C/C++ avec interfaces R et Python]]
+- C++
+  - [[https://pybind11.readthedocs.io/en/stable/][pybind11]]
+  - [[https://github.com/RUrlus/carma][carma]]
+  
+
