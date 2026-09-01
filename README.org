@@ -12,7 +12,7 @@ Téléphone : 819-821-8000 (65565)
 
 Site : https://github.com/tdhock/2026-08-aa-grande-echelle
 
-Plan de cours : TODO
+Plan de cours : [[file:IFT704-51-A2026.pdf][PDF]].
 
 ** Calendrier
 
