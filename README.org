@@ -25,6 +25,7 @@ rencontres dans D4-2022.
   - Diapos [[https://docs.google.com/presentation/d/1F8R5bDK_H8Y6H9eK1eaH0_Ojb-gBbU7uz1cY95RqD7U/edit?usp=sharing][C’est quoi l’apprentissage artificiel à grande échelle ?]]
   - Diapos [[https://docs.google.com/presentation/d/1XmEp-xbYN23wbk4JcmBIfeJg9qH_8bfLWjSF7OEkiQs/edit?usp=sharing][Validation croisée dans Python avec scikit-learn]]
   - Diapos [[https://docs.google.com/presentation/d/1U7RgXtTttg8TxBRYs0aRApcJvQ5tUQrbIvMxKp7XlbA/edit?usp=sharing][Les outils d’un informaticien]]
+  - [[file:install-python.md][installation de python et emacs]]
 - 12 jan, semaine 2
   - rappels de python / scikit learn
   - Diapos [[https://docs.google.com/presentation/d/1sEs5MGnUMO4CrPfA2nyklcaRvlaevCjsgU5fciMm9Bk/edit?slide=id.p#slide=id.p][Apprentissage et mémorisation]]
