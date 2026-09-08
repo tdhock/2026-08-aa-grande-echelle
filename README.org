@@ -20,44 +20,44 @@ rencontres dans D4-2022.
 - le mardi 13H30 / 15H30, à partir du 1 sept.
 - le jeudi 15H30 / 16H30, à partir du 10 sept.
 
-- 5 jan, semaine 1
+- 1 sept, semaine 1
   - rappels de python / scikit learn
   - Diapos [[https://docs.google.com/presentation/d/1F8R5bDK_H8Y6H9eK1eaH0_Ojb-gBbU7uz1cY95RqD7U/edit?usp=sharing][C’est quoi l’apprentissage artificiel à grande échelle ?]]
   - Diapos [[https://docs.google.com/presentation/d/1XmEp-xbYN23wbk4JcmBIfeJg9qH_8bfLWjSF7OEkiQs/edit?usp=sharing][Validation croisée dans Python avec scikit-learn]]
   - Diapos [[https://docs.google.com/presentation/d/1U7RgXtTttg8TxBRYs0aRApcJvQ5tUQrbIvMxKp7XlbA/edit?usp=sharing][Les outils d’un informaticien]]
   - [[file:install-python.md][installation de python et emacs]]
-- 12 jan, semaine 2
+- 8 sept, semaine 2
   - rappels de python / scikit learn
   - Diapos [[https://docs.google.com/presentation/d/1sEs5MGnUMO4CrPfA2nyklcaRvlaevCjsgU5fciMm9Bk/edit?slide=id.p#slide=id.p][Apprentissage et mémorisation]]
   - Diapos [[https://docs.google.com/presentation/d/11Hx7Eo40EeX-9shLha9gSzgHpcWAO0TuekBYXgtwshA/edit?usp=sharing][Standards dans la rédaction du code]]
-- 19 jan, semaine 3
+- 15 sept, semaine 3
   - bases de R / mlr3
   - Diapos [[https://docs.google.com/presentation/d/1vcWlm6QemPCUtlnw1O0xk3b7jutsHOCn0kqjtDMKbS8/edit?usp=sharing][Validation croisée dans R avec mlr3]]
   - Diapos [[https://docs.google.com/presentation/d/1ebLJxY57OdFm7v_G6feoVFypwBe1PiG6Mf7v7UL6WCw/edit?usp=sharing][data.table pour la traitement efficace des grands jeux de données]]
   - Chapitre [[https://131-merge--animint-manual-fr.netlify.app/ch20/ch20-viz][Apprentissage artificiel avec mlr3]] — traduction en cours, corrections bienvenues ! [[https://github.com/animint/animint-manual-fr/blob/ch20fr/Chapitres/Ch20/Ch20_source.qmd][source]]
-- 26 jan, semaine 4
+- 22 sept, semaine 4
   - apprentissage en parallèle sur grappe de calcul (R)
   - Diapos [[https://docs.google.com/presentation/d/1qTtOtOU_l9sxcAsFHqvPLOaLrNlnMv_gIfYmj8lv4Ko/edit?usp=sharing][Validation croisée dans R en parallèle sur une grappe de calcul]]
-- 2 fév, semaine 5
+- 29 sept, semaine 5
   - Apprentissage en parallèle sur grappe de calcul (python)
   - Diapos [[https://docs.google.com/presentation/d/11YrfcwdXI515qd1Iy-dCgwn65hREenbssHNK3-znIGo/edit?usp=sharing][SLURM et Python pour la validation croisée]]  
-- 9 fév, semaine 6
+- 6 oct, semaine 6
   - validation croisée pour comparer entraînement sur différents sous-ensembles
   - Diapos [[https://docs.google.com/presentation/d/1Scn1dZqZF0N7OjCc3QqxbKcuXhMA2JuKOSyHptfcd0E/edit?usp=sharing][Comparer entraînement sur différents sous-ensembles]]
-- 16 fév, semaine 7
+- 13 oct, semaine 7
   - acceleration avec GPU
   - Diapos [[https://docs.google.com/presentation/d/1TR2899XuLAyTk4WJDe7IXa9wgYzQta43Wnz7WQptFGI/edit?usp=sharing][Entraînement sur GPU]]
-- 23 fév, semaine 8
+- 20 oct, semaine 8
   - lundi 23 fév, révision. Présenter vos solutions des [[file:exam1.md][questions ici]] pour obtenir des points bonus sur l’examen.
   - examen intra : le mercredi 25 février 2026, 09h - 10h20 (D3-2029).
   - pas de cours vendredi.
-- 2 mar, semaine 9
+- 27 oct, semaine 9
   - pas de cours (relâche)
-- 9 mar, semaine 10
+- 3 nov, semaine 10
   - collaboration sur github
   - Diapos [[https://docs.google.com/presentation/d/1HWStDr_t0F0BEFYGGsRURu3wNw2QdO9lZNUGRXt_28g/edit?usp=sharing][Contribution aux logiciels libres]]
   - Organiser et publier un projet de recherche reproductible : github, zenodo
-- 16 mar, semaine 11
+- 10 nov, semaine 11
   - Programmation python, doc strings, site web de documentation,
     tests, PyPI, intégration de code C++, API C pour tableaux numpy
   - Diapos [[https://docs.google.com/presentation/d/1gt9H9uRcep5-O6M9Mkkv2jjouK9jEHBWAWjXflyuJ6c/edit?usp=sharing][Créer un package Python]]
@@ -65,30 +65,29 @@ rencontres dans D4-2022.
   - Docs : [[https://www.sphinx-doc.org/en/master/index.html][sphinx]]
   - Tableau numpy dans C++ [[https://pybind11.readthedocs.io/en/stable/advanced/pycpp/numpy.html#vectorizing-functions][exemple]]
   - Ouverture des [[https://summerofcode.withgoogle.com/programs/2026/organizations][applications pour Google Summer of Code]]
-- 23 mar, semaine 12
+- 17 nov, semaine 12
   - Programmation R, créer package R avec documentation, tests, vignettes, C++ code, etc.
   - Diapos [[https://docs.google.com/presentation/d/1_07zwe1RA_oY0QS8LZ7aqipKKNWmhdvCLn_XIyGvowI][Créer un package R]].
   - créer interface pour un nouveau algorithme d’apprentissage dans mlr3.
-- 30 mar, semaine 13
+- 24 nov, semaine 13
   - Diapos [[https://docs.google.com/presentation/d/1PYO9l5NNVuzcIC1COzzyCl1Z6FrpNIyAVmhjXLXcFeQ/edit?usp=sharing][intégration]] et [[https://docs.google.com/presentation/d/1z4CB628HgZCvdK5Tm7U2Bww8-MfhBIedU3vlAGLth6g/edit?usp=sharing][déploiement]] en continu (CI-CD)
   - actions github, tests automatisés, couverture de code, analyse comparative de performance en continu.
   - pas de cours le vendredi 3 avril (vendredi saint)
-- 6 avr, semaine 14
+- 1 déc, semaine 14
   - pas de cours le lundi 6 avril (pâques)
   - Diapos [[https://docs.google.com/presentation/d/1_07zwe1RA_oY0QS8LZ7aqipKKNWmhdvCLn_XIyGvowI][Créer un package R]] vignettes, Learners.
   - https://github.com/tdhock/add.h26/pull/1
   - https://github.com/tdhock/mlr3resampling/pull/81
-- 13 avr, semaine 15
+- 10 déc, semaine 15
   - dernière semaine d’instruction
   - Diapos [[https://docs.google.com/presentation/d/1HWStDr_t0F0BEFYGGsRURu3wNw2QdO9lZNUGRXt_28g/edit?usp=sharing][Contribution aux logiciels libres]]
   - Diapos [[https://docs.google.com/presentation/d/1wmP9GNUwOO0Qq1ZyWYmsFzlhZuIX9EO9uCD2fSpZmK4][Labo LASSO]]
   - [[https://tdhock.github.io/blog/2022/research-mentorship-plan/][Research Mentorship Plan]] et [[https://tdhock.github.io/blog/2024/application/][Application pour Doctorat]]
   - révision le vendredi 18 avril, présenter vos solutions de [[file:exam2.md][ces questions]], pour points bonus.
   - soumettre Draft Pull Request, et demander relecture de =@tdhock=, avant le lundi 20 avril.
-- 20 avr, semaine 16
+- 17 déc, semaine 16
   - pas de cours le lundi 20 avril.
   - examen le mardi 21,	13:30 à 15:00, D3-2031.
-- 27 avr, semaine 17
 
 ** Travaux Pratiques
 
