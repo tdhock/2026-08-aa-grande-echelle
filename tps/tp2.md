@@ -1,6 +1,6 @@
 Le but de ce TP est de démontrer que différents algorithmes d’apprentissage sont préférables pour différents jeux de données.
 On fait la même chose que TP1 mais avec R+mlr3 au lieu de Python+sklearn.
-Lire [ch20](https://131-merge--animint-manual-fr.netlify.app/ch20/ch20-viz) et [son fichier source qmd](tp2_Ch20_source.qmd) pour comprendre mlr3.
+Lire [ch20](https://animint-manual-fr.netlify.app/ch20/) et [son fichier source qmd](tp2_Ch20_source.qmd) pour comprendre mlr3.
 
 Téléchargez [vowel](https://hastie.su.domains/ElemStatLearn/datasets/vowel.train) et [waveform](https://hastie.su.domains/ElemStatLearn/datasets/waveform.train) (pas besoin des données test).
 Ce sont deux jeux de données de classification.
