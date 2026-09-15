@@ -1,6 +1,6 @@
 Le but de ce TP est de démontrer que différents algorithmes d’apprentissage sont préférables pour différents jeux de données.
 On fait la même chose que TP1 mais avec R+mlr3 au lieu de Python+sklearn.
-Lire [ch20](https://animint-manual-fr.netlify.app/ch20/) et [son fichier source qmd](tp2_Ch20_source.qmd) pour comprendre mlr3.
+Lire [ch20](https://animint-manual-fr.netlify.app/ch20/) et [son fichier source qmd](https://github.com/animint/animint-manual-fr/blob/main/chapitres/ch20/index.qmd) pour comprendre mlr3.
 
 Téléchargez [vowel](https://hastie.su.domains/ElemStatLearn/datasets/vowel.train) et [waveform](https://hastie.su.domains/ElemStatLearn/datasets/waveform.train) (pas besoin des données test).
 Ce sont deux jeux de données de classification.
@@ -42,7 +42,7 @@ Soumettez un fichier PDF avec vos codes, vos réponses, et vos graphiques.
 ## extra points
 
 * +10 si vous rajoutez un autre algorithme d’apprentissage (forêt aléatoire, arbre de décision, boosting, réseau de neurones, et cætera).
-* +10 si vous dessiner un graphique avec le taux d’erreur pour chaque nombre de voisins, [comme dans le ch20](https://131-merge--animint-manual-fr.netlify.app/ch20/ch20-viz#nearest-neighbors-selection).
+* +10 si vous dessiner un graphique avec le taux d’erreur pour chaque nombre de voisins, [comme dans le ch20](https://animint-manual-fr.netlify.app/ch20/#nearest-neighbors-selection).
 * +10 si vous rajoutez `geom_text` avec la moyenne ± écart type, trier Y par moyenne, et un autre `geom_text` avec P d’un T-test pour savoir s’il y a une différence significative entre les algos, comme ça
 
 ![alt](tp1-err-pval.png)
