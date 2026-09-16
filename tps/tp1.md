@@ -8,7 +8,7 @@ Utilisez [`cross_validate`](https://scikit-learn.org/stable/modules/cross_valida
 * [LogisticRegressionCV](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegressionCV.html)
 * `GridSearchCV(cv=3)` avec `KNeighborsClassifier` pour coder les plus proches voisins, avec nombre de voisins entre 1 et 40. 
 * Utiliser StandardScaler avec les deux, pour normaliser les variables d’entrée.
-* [DummyClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.dummy.DummyClassifier.html#sklearn.dummy.DummyClassifier) pour donnée un niveau d’erreur de base (modèle sans caractères / featureless classifier).
+* [DummyClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.dummy.DummyClassifier.html#sklearn.dummy.DummyClassifier) pour donner un niveau d’erreur de base (modèle sans caractères / featureless classifier).
 
 Il devrait avoir deux boucles, sur les algorithmes et les jeux de données.
 Sauvegarder tous les résultats dans un DataFrame.
@@ -40,6 +40,7 @@ Soumettez un fichier PDF avec vos codes, vos réponses, et vos graphiques.
 * +10 si vous codez une classe `GlmnetCV` avec méthodes `fit` et `predict` basés sur [cvglmnet](https://glmnet-python.readthedocs.io/en/latest/glmnet_vignette.html#Logistic-Regression).
 * +10 si vous stockez `best_params_` de `GridSearchCV`, pour ensuite afficher les différents valeurs choisis pour le nombre de voisins. Est-ce que le meilleur nombre de voisins est le même à travers les différents jeux de données ? Ou différent ?
 * +10 si vous rajoutez `geom_text` avec la moyenne ± écart type, trier Y par moyenne, et un autre `geom_text` avec P d’un T-test pour savoir s’il y a une différence significative entre les algos, comme ça
+* +10 pour d’autres algos ou jeux de données
 
 ![alt](tp1-err-pval.png)
 
