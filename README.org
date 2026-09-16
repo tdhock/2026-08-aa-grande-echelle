@@ -92,14 +92,11 @@ rencontres dans D4-2022.
 ** Travaux Pratiques
 
 À partir du TP3, on va travailler sur une grappe de calcul, « super-computer cluster ».
-TODO lien pour inscription et approuver.
 
-- j’ai demandé 100-1000 CPUs
-- on m’a donné 360 CPUs
-- lundi le 2 fév on l’a réduit à 90 CPUs.
-- mardi le 3 fév on m’a dit que les étudiants devraient utiliser 1–4 CPUs
-- lundi le 9 fév on n’a que 10 CPUs.
-- je vous donne donc le choix de faire soit sur la grappe, soit sur votre ordi personnel (en parallèle).
+- [[https://mokey.ift704.calculquebec.cloud/auth/signup][Vous inscrivez]]
+- [[https://ipa.ift704.calculquebec.cloud][j’approuve]]
+- vous connecter à [[https://ift704.calculquebec.cloud][jupyterhub]]
+- =ssh TON_NOM@ift704.calculquebec.cloud=
 
 | Sujet                                | À remettre |
 |--------------------------------------+------------|
