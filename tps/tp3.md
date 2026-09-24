@@ -2,10 +2,9 @@ Le but de ce TP est d’apprendre comment faire la validation croisée en parall
 
 Lire le blog « [Comparing neural network architectures using mlr3torch](https://tdhock.github.io/blog/2025/mlr3torch-conv/) » et [son fichier source Rmd](tp3_blog.Rmd) pour comprendre mlr3torch.
 
-Utiliser [ce code R](MNIST_FashionMNIST_small.R) pour
-* Téléchargez [`MNIST_FashionMNIST.csv`](https://rcdata.nau.edu/genomic-ml/cv-same-other-paper/data_Classif/MNIST_FashionMNIST.csv) qui contient deux jeux de données.
-* Ce sont deux jeux de données de classification d’image, à 10 classes, et à 70 000 lignes chacun.
-* sous-échantilloner pour obtenir 700 exemples de chaque classe (ou moins si votre ordi est trop lent), dans chacun des deux jeux de données.
+* Sur la grappe ift704 j’ai utilisé [ce code R](MNIST_FashionMNIST_small.R) pour convertir [`MNIST_FashionMNIST.csv`](https://rcdata.nau.edu/genomic-ml/cv-same-other-paper/data_Classif/MNIST_FashionMNIST.csv) en un fichier `/project/60004/R/MNIST_FashionMNIST_small.csv` qui contient deux jeux de données.
+* ` MNIST_FashionMNIST.csv` contient deux jeux de données de classification d’image (chiffres et habits), à 10 classes, et à 70 000 lignes chacun (7 000 de chaque classe).
+* ` MNIST_FashionMNIST_small.csv` contient 700 exemples de chaque classe, dans chacun des deux jeux de données.
 * Créer une liste de deux `Task`s (MNIST et FashionMNIST).
 
 Utilisez `mlr3::rsmp("cv")` pour validation croisée à 10 divisions. (ou 5 si vous voulez que ça roule plus vite)
