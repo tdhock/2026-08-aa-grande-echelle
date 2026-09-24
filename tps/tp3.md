@@ -2,6 +2,7 @@ Le but de ce TP est d’apprendre comment faire la validation croisée en parall
 
 Lire le blog « [Comparing neural network architectures using mlr3torch](https://tdhock.github.io/blog/2025/mlr3torch-conv/) » et [son fichier source Rmd](tp3_blog.Rmd) pour comprendre mlr3torch.
 
+* Pour dire à R à chercher dans mon dossier des packages déjà installé sur la grappe ift704, utilisez le code R `.libPaths("/project/60004/R/4.6.1")` dans votre `~/.Rprofile` (fichier de code R à faire à chaque démarrage de R).
 * Sur la grappe ift704 j’ai utilisé [ce code R](MNIST_FashionMNIST_small.R) pour convertir [`MNIST_FashionMNIST.csv`](https://rcdata.nau.edu/genomic-ml/cv-same-other-paper/data_Classif/MNIST_FashionMNIST.csv) en un fichier `/project/60004/R/MNIST_FashionMNIST_small.csv` qui contient deux jeux de données.
 * ` MNIST_FashionMNIST.csv` contient deux jeux de données de classification d’image (chiffres et habits), à 10 classes, et à 70 000 lignes chacun (7 000 de chaque classe).
 * ` MNIST_FashionMNIST_small.csv` contient 700 exemples de chaque classe, dans chacun des deux jeux de données.
