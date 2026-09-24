@@ -41,6 +41,7 @@ Soumettez un fichier PDF avec vos codes, vos réponses, et vos graphiques.
 
 ## extra points
 
+* +10 si vous faites les calculs avec `MNIST_FashionMNIST.csv`, 10x plus grand que `MNIST_FashionMNIST_small.csv`.
 * +10 si vous faites les calculs sur la grappe.
   * faire `store_models=FALSE` pour limiter la mémoire vive qu’il vous faut.
   * Combien de tâches avez-vous calculé en parallèle sur la grappe ?
