@@ -104,7 +104,7 @@ rencontres dans D4-2022.
 | [[file:tps/tp2.md][TP2 : validation croisée dans R]]      | 18 sept    |
 | [[file:tps/tp3.md][TP3 : grappe de calcul avec R]]        | 25 sept    |
 | [[file:tps/tp4.md][TP4 : grappe de calcul avec Python]]   | 2 oct      |
-| TP5 : généralisation, MNIST          | 9 oct      |
+| TP5 : annulé                         | annulé     |
 | [[file:tps/tp6.md][TP6 : généralisation, A et B]]         | 16 oct     |
 | [[file:tps/tp7.md][TP7 : entraînement sur GPU]]           | 23 oct     |
 | [[file:tps/tp8.md][TP8 : création d’un package python]]   | 6 nov      |
