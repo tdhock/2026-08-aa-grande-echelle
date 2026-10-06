@@ -47,10 +47,9 @@ rencontres dans D4-2022.
 - 13 oct, semaine 7
   - acceleration avec GPU
   - Diapos [[https://docs.google.com/presentation/d/1TR2899XuLAyTk4WJDe7IXa9wgYzQta43Wnz7WQptFGI/edit?usp=sharing][Entraînement sur GPU]]
+  - révision le jeudi 15. Présenter vos solutions des [[file:exam1.md][questions ici]] pour obtenir des points bonus sur l’examen.
 - 19 oct, semaine 8
-  - 13H30 le lundi 19 oct : intra lieu à déterminer.
-  - révision. Présenter vos solutions des [[file:exam1.md][questions ici]] pour obtenir des points bonus sur l’examen.
-  - examen intra : le XXX 2026, XXX (D3-XX).
+  - 13H30 le lundi 19 oct : examen intra (D3-2030).
 - 27 oct, semaine 9
   - pas de cours (relâche)
 - 3 nov, semaine 10
