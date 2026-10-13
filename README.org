@@ -49,7 +49,7 @@ rencontres dans D4-2022.
   - Diapos [[https://docs.google.com/presentation/d/1TR2899XuLAyTk4WJDe7IXa9wgYzQta43Wnz7WQptFGI/edit?usp=sharing][Entraînement sur GPU]]
   - révision le jeudi 15. Présenter vos solutions des [[file:exam1.md][questions ici]] pour obtenir des points bonus sur l’examen.
 - 19 oct, semaine 8
-  - 13H30 le lundi 19 oct : examen intra (D3-2030).
+  - 13H30 le lundi 19 oct : examen intra (D3-2030), permission d’une page manuscrite de notes, recto-verso.
 - 27 oct, semaine 9
   - pas de cours (relâche)
 - 3 nov, semaine 10
