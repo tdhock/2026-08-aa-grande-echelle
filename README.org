@@ -71,22 +71,18 @@ rencontres dans D4-2022.
 - 24 nov, semaine 13
   - Diapos [[https://docs.google.com/presentation/d/1PYO9l5NNVuzcIC1COzzyCl1Z6FrpNIyAVmhjXLXcFeQ/edit?usp=sharing][intégration]] et [[https://docs.google.com/presentation/d/1z4CB628HgZCvdK5Tm7U2Bww8-MfhBIedU3vlAGLth6g/edit?usp=sharing][déploiement]] en continu (CI-CD)
   - actions github, tests automatisés, couverture de code, analyse comparative de performance en continu.
-  - pas de cours le vendredi 3 avril (vendredi saint)
 - 1 déc, semaine 14
-  - pas de cours le lundi 6 avril (pâques)
   - Diapos [[https://docs.google.com/presentation/d/1_07zwe1RA_oY0QS8LZ7aqipKKNWmhdvCLn_XIyGvowI][Créer un package R]] vignettes, Learners.
   - https://github.com/tdhock/add.h26/pull/1
   - https://github.com/tdhock/mlr3resampling/pull/81
-- 10 déc, semaine 15
+- 8 déc, semaine 15
   - dernière semaine d’instruction
   - Diapos [[https://docs.google.com/presentation/d/1HWStDr_t0F0BEFYGGsRURu3wNw2QdO9lZNUGRXt_28g/edit?usp=sharing][Contribution aux logiciels libres]]
   - Diapos [[https://docs.google.com/presentation/d/1wmP9GNUwOO0Qq1ZyWYmsFzlhZuIX9EO9uCD2fSpZmK4][Labo LASSO]]
   - [[https://tdhock.github.io/blog/2022/research-mentorship-plan/][Research Mentorship Plan]] et [[https://tdhock.github.io/blog/2024/application/][Application pour Doctorat]]
   - révision le vendredi 18 avril, présenter vos solutions de [[file:exam2.md][ces questions]], pour points bonus.
   - soumettre Draft Pull Request, et demander relecture de =@tdhock=, avant le lundi 20 avril.
-- 17 déc, semaine 16
-  - pas de cours le lundi 20 avril.
-  - examen le mardi 21,	13:30 à 15:00, D3-2031.
+- 15 déc, examen 8H30 / 10H30
 
 ** Travaux Pratiques
 
