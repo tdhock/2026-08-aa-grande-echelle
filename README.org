@@ -102,9 +102,9 @@ rencontres dans D4-2022.
 | TP5 : annulé                         | annulé     |
 | [[file:tps/tp6.md][TP6 : généralisation, A et B]]         | 16 oct     |
 | [[file:tps/tp7.md][TP7 : entraînement sur GPU]]           | 30 oct     |
-| [[file:tps/tp8.md][TP8 : création d’un package python]]   | 6 nov      |
-| [[file:tps/tp9.md][TP9 : création d’un package R]]        | 20 nov     |
-| [[file:tps/tp10.md][TP10 : contribution sur GitHub]]       | 4 déc      |
+| [[file:tps/tp8.md][TP8 : création d’un package python]]   | 13 nov     |
+| [[file:tps/tp9.md][TP9 : création d’un package R]]        | 27 nov     |
+| [[file:tps/tp10.md][TP10 : contribution sur GitHub]]       | 11 déc     |
 
 L’échelle pour noter chaque TP.
 
