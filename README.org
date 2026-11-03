@@ -80,9 +80,9 @@ rencontres dans D4-2022.
   - Diapos [[https://docs.google.com/presentation/d/1HWStDr_t0F0BEFYGGsRURu3wNw2QdO9lZNUGRXt_28g/edit?usp=sharing][Contribution aux logiciels libres]]
   - Diapos [[https://docs.google.com/presentation/d/1wmP9GNUwOO0Qq1ZyWYmsFzlhZuIX9EO9uCD2fSpZmK4][Labo LASSO]]
   - [[https://tdhock.github.io/blog/2022/research-mentorship-plan/][Research Mentorship Plan]] et [[https://tdhock.github.io/blog/2024/application/][Application pour Doctorat]]
-  - révision le vendredi 18 avril, présenter vos solutions de [[file:exam2.md][ces questions]], pour points bonus.
-  - soumettre Draft Pull Request, et demander relecture de =@tdhock=, avant le lundi 20 avril.
-- 15 déc, examen 8H30 / 10H30
+  - révision le jeudi 10 déc, présenter vos solutions de [[file:exam2.md][ces questions]], pour points bonus.
+  - soumettre Draft Pull Request, et demander relecture de =@tdhock=, avant le lundi 7 déc.
+- le mardi 15 déc, examen 8H30 / 10H30
 
 ** Travaux Pratiques
 
