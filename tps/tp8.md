@@ -48,4 +48,5 @@ votre_module.cum_médiane(données)
 * +10 si vous faites un site web de documentation sur readthedocs. 
   * Écrire docstrings comme dans [`python_example`](https://github.com/pybind/python_example).
   * Suivre [ce tutoriel](https://py-pkgs.org/03-how-to-package-a-python#hosting-documentation-online) pour mettre en place vos docs sur readthedocs.
+* +10 si vous faites github actions [cibuildwheel](https://cibuildwheel.pypa.io/en/stable/) pour le compilation et distribution des fichiers binaires. Donner une démo de l’installation des fichier binaires depuis PyPI.
 
