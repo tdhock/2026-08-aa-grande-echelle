@@ -10,8 +10,8 @@ Votre package doit contenir
   * erreur quand il y a des données répétées.
   * la bonne sortie pour les 5 données sur [la diapo](https://docs.google.com/presentation/d/1gt9H9uRcep5-O6M9Mkkv2jjouK9jEHBWAWjXflyuJ6c?slide=id.g3cf2ddf2dd3_0_59#slide=id.g3cf2ddf2dd3_0_59).
 * `src/interface.cpp`
-  * fonction `cum_médiane(numpy_array_de_doubles)` qui converti le tableau numpy en pointeur, utiliser pour appeller `cum_médiane()`.
-* `src/cum_médiane.cpp`
+  * fonction `cum_médiane_interface(numpy_array_de_doubles)` qui converti le tableau numpy en pointeur, utiliser pour appeller `cum_médiane()`.
+* `src/cum_médiane.cpp` qui a le code C++ pour définir la fonction `cum_médiane`
 * `src/cum_médiane.h` qui a
 
 ```c++
